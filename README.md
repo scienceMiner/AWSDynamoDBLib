@@ -1,3 +1,4 @@
 # AWSDynDB2
 
-A description of this package.
+Swift DynamoDB functions - in progress
+
